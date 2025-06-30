@@ -39,14 +39,14 @@ Below are screenshots demonstrating various API functionalities tested using Pos
 
 | Feature               | Screenshot Preview                     |
 |------------------------|----------------------------------------|
-|  Login               | ![Login](./login.png)                  |
-|  Registration        | ![Registration](./registeration.png)    |
-|  Get All Books       | ![Get All Books](./getallbooks.png)    |
-|  Get Book by ISBN    | ![Get Book by ISBN](./getbookbyisbn.png)|
-|  Get Book by Author  | ![Get Book by Author](./getbooksbyauthor.png)|
-|  Get Book by Title   | ![Get Book by Title](./getbooksbytitle.png)|
-|  View Book Reviews   | ![View Reviews](./getbookbyreview.png) |
-|  Add a Review        | ![Add Review](./addreview.png)         |
-|  Delete a Review     | ![Delete Review](./deletereview.png)   |
+|  Login               | ![Login](./postman screenshots/login.png)                  |
+|  Registration        | ![Registration](./postman screenshots/registeration.png)    |
+|  Get All Books       | ![Get All Books](./postman screenshots/getallbooks.png)    |
+|  Get Book by ISBN    | ![Get Book by ISBN](./postman screenshots/getbookbyisbn.png)|
+|  Get Book by Author  | ![Get Book by Author](./postman screenshots/getbooksbyauthor.png)|
+|  Get Book by Title   | ![Get Book by Title](./postman screenshots/getbooksbytitle.png)|
+|  View Book Reviews   | ![View Reviews](./postman screenshots/getbookbyreview.png) |
+|  Add a Review        | ![Add Review](./postman screenshots/addreview.png)         |
+|  Delete a Review     | ![Delete Review](./postman screenshots/deletereview.png)   |
 
 
