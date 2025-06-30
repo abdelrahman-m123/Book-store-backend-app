@@ -39,14 +39,14 @@ Below are screenshots demonstrating various API functionalities tested using Pos
 
 | Feature               | Screenshot Preview                     |
 |------------------------|----------------------------------------|
-|  Login               | ![Login](./postman screenshots/login.png)                  |
-|  Registration        | ![Registration](./postman screenshots/registeration.png)    |
-|  Get All Books       | ![Get All Books](./postman screenshots/getallbooks.png)    |
-|  Get Book by ISBN    | ![Get Book by ISBN](./postman screenshots/getbookbyisbn.png)|
-|  Get Book by Author  | ![Get Book by Author](./postman screenshots/getbooksbyauthor.png)|
-|  Get Book by Title   | ![Get Book by Title](./postman screenshots/getbooksbytitle.png)|
-|  View Book Reviews   | ![View Reviews](./postman screenshots/getbookbyreview.png) |
-|  Add a Review        | ![Add Review](./postman screenshots/addreview.png)         |
-|  Delete a Review     | ![Delete Review](./postman screenshots/deletereview.png)   |
+|  Login               | <img src="./postman screenshots/login.png"/>                  |
+|  Registration        | <img src="./postman screenshots/registeration.png"/>    |
+|  Get All Books       | <img src="./postman screenshots/getallbooks.png"/>    |
+|  Get Book by ISBN    | <img src="./postman screenshots/getbookbyisbn.png"/>|
+|  Get Book by Author  | <img src="./postman screenshots/getbooksbyauthor.png"/>|
+|  Get Book by Title   | <img src="./postman screenshots/getbooksbytitle.png"/>|
+|  View Book Reviews   | <img src="./postman screenshots/getbookbyreview.png"/> |
+|  Add a Review        | <img src="./postman screenshots/addreview.png"/>         |
+|  Delete a Review     | <img src="./postman screenshots/deletereview.png"/>   |
 
 
