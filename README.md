@@ -49,4 +49,4 @@ Below are screenshots demonstrating various API functionalities tested using Pos
 |  Add a Review        | ![Add Review](./addreview.png)         |
 |  Delete a Review     | ![Delete Review](./deletereview.png)   |
 
-> **Note:** Screenshots are located in the root of the project directory. Make sure they are committed and pushed to your GitHub repository.
+
