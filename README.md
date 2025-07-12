@@ -1,6 +1,6 @@
 #  Bookshop RESTful API
 
-This is the **server-side** implementation of a Bookshop web application built with **Node.js** and **Express.js** and **MongoDB**. It provides a RESTful API backend that allows users to view, search, review, and manage books and reviews.
+This is the **server-side** implementation of a Bookshop web application built with **Node.js**, **Express.js** and **MongoDB**. It provides a RESTful API backend that allows users to view, search, review, and manage books and reviews.
 
 ---
 
